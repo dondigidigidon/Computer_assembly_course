@@ -1,0 +1,452 @@
+/* advantages */
+
+position: absolute;
+width: 1296px;
+height: 549px;
+left: 312px;
+top: 2654px;
+
+
+
+/* Получите профессию прямо сейчас */
+
+position: absolute;
+width: 810px;
+height: 67px;
+left: 555px;
+top: 2654px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 140%;
+/* or 67px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Только практические навыки в работе */
+
+position: absolute;
+width: 416px;
+height: 68px;
+left: 312px;
+top: 3001px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+/* or 34px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Работа на самом современном оборудовании */
+
+position: absolute;
+width: 416px;
+height: 68px;
+left: 752px;
+top: 3001px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+/* or 34px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Сертификация по окончании обучения */
+
+position: absolute;
+width: 416px;
+height: 68px;
+left: 1192px;
+top: 3001px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+/* or 34px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus eget velit quisque accumsan amet tortor. Velit, volutpat egestas fringilla mi porttitor tempus. Placerat dui. */
+
+position: absolute;
+width: 358px;
+height: 104px;
+left: 341px;
+top: 3099px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+opacity: 0.8;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus eget velit quisque accumsan amet tortor. Velit, volutpat egestas fringilla mi porttitor tempus. Placerat dui. */
+
+position: absolute;
+width: 358px;
+height: 104px;
+left: 781px;
+top: 3099px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+opacity: 0.8;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus eget velit quisque accumsan amet tortor. Velit, volutpat egestas fringilla mi porttitor tempus. Placerat dui. */
+
+position: absolute;
+width: 358px;
+height: 104px;
+left: 1221px;
+top: 3099px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+opacity: 0.8;
+
+
+/* icon-1 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 470px;
+top: 2841px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 85.94%;
+top: 12.5%;
+bottom: 79.69%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 34.38%;
+top: 78.12%;
+bottom: 18.75%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 34.38%;
+top: 84.38%;
+bottom: 12.5%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 84.38%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 18.75%;
+bottom: 78.12%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 25%;
+bottom: 71.88%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.81%;
+right: 34.38%;
+top: 26.56%;
+bottom: 65.62%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: 0%;
+top: 6.25%;
+bottom: 34.38%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 28.12%;
+top: 71.88%;
+bottom: 6.25%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 78.12%;
+right: 6.25%;
+top: 71.88%;
+bottom: 6.25%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 28.12%;
+top: 6.25%;
+bottom: 34.38%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 43.75%;
+bottom: 40.6%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.81%;
+right: 64.06%;
+top: 43.75%;
+bottom: 53.12%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* icon-2 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 910px;
+top: 2841px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 43.75%;
+right: 53.12%;
+top: 6.25%;
+bottom: 81.25%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 53.12%;
+right: 43.75%;
+top: 6.25%;
+bottom: 81.25%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 28.12%;
+right: 28.12%;
+top: 0%;
+bottom: 0%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 34.37%;
+right: 34.38%;
+top: 31.13%;
+bottom: 9.36%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* icon-3 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1350px;
+top: 2841px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 87.5%;
+top: 9.38%;
+bottom: 87.5%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 87.5%;
+top: 15.62%;
+bottom: 81.25%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 87.5%;
+right: 9.38%;
+top: 81.25%;
+bottom: 15.62%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 87.5%;
+right: 9.38%;
+top: 87.5%;
+bottom: 9.38%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* grad2 */
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);

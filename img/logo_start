@@ -1,0 +1,34 @@
+/* icon-heading */
+
+position: absolute;
+width: 127px;
+height: 127px;
+left: 293px;
+top: 1902px;
+
+
+
+/* Ellipse 1 (Stroke) */
+
+position: absolute;
+width: 90.3px;
+height: 45.15px;
+left: 356.15px;
+top: 1902px;
+
+/* grad1 */
+background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+transform: rotate(45deg);
+
+
+/* Ellipse 1 (Stroke) */
+
+position: absolute;
+visibility: hidden;
+width: 90.3px;
+height: 44.15px;
+left: 356.85px;
+top: 2029px;
+
+background: #C4C4C4;
+transform: rotate(-135deg);
