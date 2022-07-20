@@ -114,7 +114,7 @@ body::-webkit-scrollbar-thumb {
 
 /* Кнопка */
 .main-top-buttom {
-    min-width: 170px;
+    min-width: 160px;
     height: 45px;
     background: linear-gradient(45deg, #C89AFC, #7C6AFA);
     border-radius: 20px;
